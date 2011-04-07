@@ -11,6 +11,9 @@ Assuming that you have Fat Free CRM up and running:
 
   $ ./script/plugin install git://github.com/michaeldv/crm_web_to_lead.git
 
+Rails 3:
+$ rails plugin install git://github.com/michaeldv/crm_web_to_lead.git
+
 The sample plugin will be installed in vendor/plugins/crm_web_to_lead directory.
 
 === Quick How To
