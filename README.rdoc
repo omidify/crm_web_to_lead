@@ -1,4 +1,8 @@
-=== Web-To-Lead Capture Plugin for Fat Free CRM
+=== Web-To-Lead Capture Plugin for Fat Free CRM - Appears to not have support for Rails 3
+ 
+Error:
+vendor/plugins/crm_web_to_lead/init.rb:3:in `block in <class:Plugin>': uninitialized constant FatFreeCRM::Plugin (NameError)
+
 
 This plugin shows how to implement Fat Free CRM application controller
 callback hook to capture lead data submitted from remote form. For more
